@@ -2770,6 +2770,33 @@
       ],
       "category": "mcp-servers",
       "source": "./plugins/midpoint-card-prices"
+    },
+    {
+      "name": "colai",
+      "description": "Point at anything on your screen and hand it to Claude Code: a desktop toolbar to box, draw on, measure, colour-pick or record any app, then send it to your session with a picture of exactly what you meant. Windows and Linux; macOS in preview.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Shahar Nadiv",
+        "url": "https://github.com/Shahar-Nadiv"
+      },
+      "homepage": "https://github.com/Shahar-Nadiv/colai-clawhub",
+      "repository": "https://github.com/Shahar-Nadiv/colai-clawhub",
+      "license": "MIT",
+      "keywords": [
+        "screenshot",
+        "overlay",
+        "desktop",
+        "annotation",
+        "visual-prompt",
+        "windows",
+        "linux",
+        "macos"
+      ],
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "Shahar-Nadiv/colai-clawhub"
+      }
     }
   ]
 }
